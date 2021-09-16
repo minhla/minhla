@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Minh 🐳
+I am a Computer Science undergraduate with a passion for all things tech.
 
 <!--
 **minhla/minhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
