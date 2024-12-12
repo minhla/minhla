@@ -1,5 +1,6 @@
 #### Hello there 👋
 I'm a Software Engineer currently working mainly on the web 🌏
+
 Technology has my heart, and I'm on a constant journey of learning 📖
 <!--
 **minhla/minhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
