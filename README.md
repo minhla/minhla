@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm a Software Engineer currently working mainly on the web 🌏
+I'm a Software Engineer currently working on the web 🌏
 
 Technology has my heart, and I'm on a constant journey of learning 📖
 <!--
